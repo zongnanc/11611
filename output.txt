@@ -8,12 +8,3 @@
 <pad> question: What was the name of the clan that founded the Wei dynasty?</s>
 <pad> question: Who did Jiandi give birth to?</s>
 <pad> question: Where is the earliest known body of Chinese writing?</s>
-<pad> question: What is the second most spoken language?</s>
-<pad> question: Who was the Prince of Henan?</s>
-<pad> question: Where did the refugees settle?</s>
-<pad> question: Dialects in and around the Nantong area typically have more than how many tones?</s>
-<pad> question: What country uses Chinese as a high-prestige minority language?</s>
-<pad> question: What dynasty was the third of the Southern dynasties?</s>
-<pad> question: What dynasty succeeded the Southern Qi?</s>
-<pad> question: When did Wu die?</s>
-<pad> question: What region of China is Sichuan?</s>

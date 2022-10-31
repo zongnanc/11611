@@ -26,7 +26,10 @@ def get_question(answer, context, max_length=64):
     return tokenizer.decode(output[0])
 
 
-def generation(training_file):
+def generation(training_file, n_questions=1):
+    question_count = 0
+    output = open('output.txt', 'w')
+    output.close()
     with open(training_file) as file:
         tsv_file = csv.reader(file, delimiter="\t")
         next(tsv_file)
@@ -51,14 +54,19 @@ def generation(training_file):
                     output = open('output.txt', 'a')
                     output.writelines(question + "\n")
                     output.close()
+                    question_count += 1
                     break
+
+            if question_count == n_questions:
+                break
 
     file.close()
 
 
 if __name__ == '__main__':
     training_file = sys.argv[1]
-    generation(training_file)
+    n_questions = int(sys.argv[2])
+    generation(training_file, n_questions)
 
 
 
