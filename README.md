@@ -13,7 +13,25 @@ The generated questions can be found at output.txt.
 
 **Command to run the code:**
 
-python generator.py context_file_name.tsv n_questions
+python t5_base_qg.py context_file_name.tsv n_questions
+
+**Note:**
+
+Prepare context directories at the same file path
+
+## Bart Base Question Generator
+
+This is a working Question Generator (QG) based on pretrained Bart-Base sequence to
+sequence model from HuggingFace (source:voidful/context-only-question-generator). The
+QG model takes in only context as input and generate a human readable question. Currently,
+the working QG takes in each single sentence as the context for each question. But later 
+on, the QG system will be expanded to accept preceeding and following sentences in order 
+to generate question with level of difficulty. The generated questions can be found at 
+output.txt.
+
+**Command to run the code:**
+
+python bart_base_qg.py context_file_name.txt n_questions
 
 **Note:**
 

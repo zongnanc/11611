@@ -1,10 +1,41 @@
-<pad> question: What dynasty was the third of the Southern dynasties?</s>
-<pad> question: What country was the Southern Liang dynasty?</s>
-<pad> question: In what year was Western Liang conquered?</s>
-<pad> question: What color was recorded as originating from Persia by the Book of Liang?</s>
-<pad> question: Who was the Prince of Henan?</s>
-<pad> question: Who was sacked by Han Zhao in 311?</s>
-<pad> question: When did Wei unify the North?</s>
-<pad> question: What was the name of the clan that founded the Wei dynasty?</s>
-<pad> question: Who did Jiandi give birth to?</s>
-<pad> question: Where is the earliest known body of Chinese writing?</s>
+</s>What was the third of the four Southern dynasties?</s>
+</s>What dynasty preceded the Southern Qi dynasty?</s>
+</s>Who conquered Western Liang?</s>
+</s>When did the Persian embassy pay tribute to the Liang dynasty?</s>
+</s>Who started a rebellion with Hou Jing Prince of Henan?</s>
+</s>When did Hou sack Jiankang?</s>
+</s>Who did Emperor Wu dismiss the armies opposed to him?</s>
+</s>Who created Emperor Wu's third son?</s>
+</s>Why did he attempt to suppress those who would submit to him?</s>
+</s>Who attacked Xiao Guan Prince of Shaoling?</s>
+</s>Who was created Prince of Liang?</s>
+</s>Who defeated Xiao Guan?</s>
+</s>who is Xiao Ji the Prince of Wuling the youngest son?</s>
+</s>Who killed Emperor Jianwen?</s>
+</s>Who established a new dynasty named Han?</s>
+</s>When did Xiao Yi destroy Han?</s>
+</s>Who ordered his subordinates to kill Xiao Dong and Xiao Dong's younger brothers?</s>
+</s>Why did he create his headquarter Jiangling capital?</s>
+</s>Who conquered Yi Province (Sichuan)?</s>
+</s>What year did Northern Qi attack Liang?</s>
+</s>Who was the emperor of Western Wei at Jiangling?</s>
+</s>Who was the only living son of Emperor Yuan?</s>
+</s>Who requested that Xiao Fangzhi be created Crown Prince?</s>
+</s>Who launched a raid that killed Wang?</s>
+</s>Who was the Emperor Jing of Liang?</s>
+</s>Who initially claimed Liang was a subject of Northern Qi?</s>
+</s>When did Chen Baxian establish the Chen dynasty?</s>
+</s>Who claimed Xiao Zhuang Prince of Yongjia grandson of Emperor Yuan emperor?</s>
+</s>Who was created Prince of Liang in 570?</s>
+</s>When did the Western Liang state exist?</s>
+</s>When did Xiao Xian claim himself Liang Emperor?</s>
+</s>When was Tang dynasty destroyed?</s>
+</s>What is the name of the Emperor Yuan of Liang?</s>
+</s>When did the three Hephthalite ambassadors take place?</s>
+</s>Where is the only surviving copy of the Song dynasty work located?</s>
+</s>How many portraits are in the original work?</s>
+</s>How many envoys does the Song dynasty have?</s>
+</s>What envoys were from right to left?</s>
+</s>What family is the Xiao family part of?</s>
+</s>Who was Xiao Xiu brother of?</s>
+</s>zizhi Tongjian is the king of what dynasty?</s>
